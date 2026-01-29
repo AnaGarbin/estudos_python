@@ -3,8 +3,7 @@
 Este repositório reúne scripts, exercícios e experimentos desenvolvidos durante meu aprendizado da linguagem Python. O foco aqui é a prática de lógica de programação, manipulação de estruturas de dados e criação de interfaces simples.
 
 ## 📂 Estrutura do Repositório
-* **/testes_python:** Scripts diversos para testar lógicas específicas, bibliotecas e funções integradas do Python.
-* **/menus:** Protótipos de menus interativos e sistemas de navegação via terminal.
+* Scripts diversos para testar lógicas específicas, bibliotecas e funções integradas do Python.
 
 ## 🎯 Objetivos
 * Praticar a sintaxe da linguagem.
